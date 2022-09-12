@@ -16,5 +16,4 @@ Adding a line for Rebase Examples
 
 
 
-
 this is sample project hoe to use git and github together
