@@ -8,4 +8,4 @@ This repository is for showing how Git and GitHub work
 
 
 
-
+This is sample project hoe to use git and github together
