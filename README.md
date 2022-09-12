@@ -11,6 +11,8 @@ This repository is for showing how Git and GitHub work
 
 copyright notice
 
+Adding a line for Rebase Examples
+
 
 
 
